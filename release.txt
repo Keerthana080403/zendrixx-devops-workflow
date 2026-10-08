@@ -1,0 +1,21 @@
+ZENDRIXX SOFTWARE 
+RELEASE INFORMATION 
+
+release date:
+25th of every month 
+
+current release:
+october 25,2026
+
+features:
+1. login 
+2. payment 
+
+testing status:
+PASSED 
+
+production status:
+APPROVED 
+
+Deployment:
+Scheduled for the 25th 
