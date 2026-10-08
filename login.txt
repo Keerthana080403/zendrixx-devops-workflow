@@ -1,0 +1,11 @@
+LOGIN FEATURE 
+START 
+ ask the user to enter username 
+ask the user to enter password 
+
+IF username and password are correct 
+display "login successful"
+ELSE 
+display " Invalid Username or password "
+
+END 
