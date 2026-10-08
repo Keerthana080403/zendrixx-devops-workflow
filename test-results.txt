@@ -1,0 +1,16 @@
+TEST RESULTS 
+
+login feature:
+PASS 
+
+Payment Feature:
+PASS 
+
+integration:
+PASS 
+
+critical Bugs:
+0
+
+Status:
+APPROVED FOR PRODUCTION 
