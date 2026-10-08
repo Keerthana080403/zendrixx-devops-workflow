@@ -1,0 +1,14 @@
+PAYMENT FEATURE 
+START 
+
+ask the user to enter payment details 
+
+validate payment details 
+
+IF payment details are valid 
+process payment 
+display " payment successful"
+ELSE 
+display " payment failed " 
+
+END 
